@@ -10,7 +10,7 @@ I'm a full-stack developer, currently studying software architecture. I study at
 "Viva La Vida" - Coldplay 🎶🎶
 
 
-<div align:"center">
+<div style="display: inline_block">
 
   [![Albberrrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=albberrrt&show_icons=true&theme=buefy&hide=contribs&height=170)](https://github.com/albberrrt/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albberrrt&layout=compact&height=170)](https://github.com/albberrrt/github-readme-stats)
