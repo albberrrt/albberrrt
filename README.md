@@ -12,8 +12,8 @@ I'm a full-stack developer, currently studying software architecture. I study at
 
 <div style="display: inline_block" align="center" >
 
-  [![Albberrrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=albberrrt&show_icons=true&theme=buefy&hide=contribs)](https://github.com/albberrrt/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albberrrt&layout=compact)](https://github.com/albberrrt/github-readme-stats)
+  [![Albberrrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=albberrrt&show_icons=true&theme=buefy&hide=contribs&height=170)](https://github.com/albberrrt/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albberrrt&layout=compact&height=170)](https://github.com/albberrrt/github-readme-stats)
 </div>
 <br>
 
