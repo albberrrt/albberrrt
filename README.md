@@ -15,6 +15,7 @@ I'm a full-stack developer, currently studying software architecture. I study at
   [![Albberrrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=albberrrt&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/albberrrt/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albberrrt&layout=compact)](https://github.com/albberrrt/github-readme-stats)
 </div>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" />
