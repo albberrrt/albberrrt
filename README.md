@@ -18,7 +18,7 @@ I'm a Web developer, currently studying software architecture. I study at Profes
 
 <h3>Technologies I use:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,next,react,typescript, javascript,java,php,tailwind,sass,firebase,graphql,prisma,mysql,postgres,mongodb,linux,docker&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,next,react,typescript,javascript,java,php,tailwind,sass,firebase,graphql,prisma,mysql,postgres,mongodb,linux,docker&)](https://skillicons.dev)
 
 <h3>Design: </h3>
 
