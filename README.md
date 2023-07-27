@@ -6,9 +6,7 @@ Web Developer.
 [![Email Badge](https://img.shields.io/badge/albertsmaczylo@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=mailto:albertsmaczylo@gmail.com)](mailto:albertsmaczylo@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
-I'm a Web developer, currently studying software architecture. I study at Professor Camargo Aranha College, where I have already participated in several school projects related to the IT area. Feel free to take a look at my projects, and leave a star on what you like heheeh 😉
-
-"Viva La Vida" - Coldplay 🎶🎶
+I'm a Web developer, currently studying software architecture. I study at Professor Camargo Aranha College, where I have already participated in several school projects related to the IT area. Feel free to take a look at my projects, and leave a star on what you like heheeh 😉
 
 
 <div style="display: flex; align-items: center;" align="center">
