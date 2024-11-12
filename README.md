@@ -12,7 +12,7 @@ I'm a Software Developer, currently working with Web Development. I studied at P
 
 <div style="display: flex; align-items: center;" align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=albberrrt&show_icons=true&theme=buefy&hide=contribs"/>
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albberrrt&layout=compact&theme=buefy">
 </div>
 <br>
