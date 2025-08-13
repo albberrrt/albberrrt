@@ -16,8 +16,9 @@ I'm a Software Developer, currently working with Web Development. I studied at P
 
 <h3>Technologies I use:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,next,react,typescript,javascript,java,php,tailwind,sass,firebase,graphql,prisma,mysql,postgres,mongodb,linux&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,typescript,javascript,java,firebase,prisma,mysql,mongodb,linux&)](https://skillicons.dev)
 
 <h3>Design: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
+
