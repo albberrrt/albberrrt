@@ -8,7 +8,7 @@ Web Developer.
 <div style="display: flex; flex-direction: row; ">
   
 Enthusiast of web development and AI technologies.
-I'm a Software Developer, currently working with Web Development. I studied at Professor Camargo Aranha College, where I have already participated in several school projects related to the IT area. Now I'm studying AI integrations into websites. Feel free to take a look at my projects, and leave a star on what you like heheeh 😉
+I'm a Software Developer, currently working with Web Development. I studied at Professor Camargo Aranha College, where I have already participated in several school projects related to the IT area. Now I'm studying AI creation and integrations into websites. In my spare time, I teach in an uncomplicated way Programming and Robotics to children and teenagers who want to dive into the tech world earlier, like I did. Feel free to take a look at my projects, and leave a star on what you like heheeh 😉
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albberrrt&layout=compact&theme=buefy">
 </div>
@@ -21,4 +21,5 @@ I'm a Software Developer, currently working with Web Development. I studied at P
 <h3>Design: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
+
 
