@@ -14,12 +14,13 @@ I'm a Software Developer, currently working with Web Development. I studied at P
 </div>
 <br>
 
-<h3>Technologies I use:</h3>
+<h3>My Tech Armament:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,typescript,javascript,java,firebase,prisma,mysql,mongodb,linux&)](https://skillicons.dev)
 
-<h3>Design: </h3>
+<h3>My Weapons of Persuasion and Manipulation: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
+
 
 
